@@ -1,0 +1,103 @@
+.pace404-container {
+  min-height: 100vh;
+}
+.pace404-pace404 {
+  width: 100%;
+  height: 768px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pace404-d-a-l-l-e2023022317431 {
+  top: 0px;
+  left: 0px;
+  width: 797px;
+  height: 768px;
+  position: absolute;
+  border-color: transparent;
+}
+.pace404-text {
+  top: 158px;
+  left: 994px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.pace404-text2 {
+  top: 268px;
+  left: 922px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.pace404-text4 {
+  top: 697px;
+  left: 994px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.pace404-rectangle21 {
+  top: 476px;
+  left: 937px;
+  width: 300px;
+  height: 80px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.pace404-text6 {
+  top: 502px;
+  left: 1023px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

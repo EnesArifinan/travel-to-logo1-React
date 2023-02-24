@@ -1,0 +1,313 @@
+.loginbutton-container {
+  min-height: 100vh;
+}
+.loginbutton-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.loginbutton-loginbutton {
+  width: 100%;
+  height: 768px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.loginbutton-d-a-l-l-e2023020918191 {
+  top: 82px;
+  left: 0px;
+  width: 1366px;
+  height: 768px;
+  position: absolute;
+  border-color: transparent;
+}
+.loginbutton-component {
+  top: 322px;
+  left: 104px;
+  width: 343px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.loginbutton-component1 {
+  top: 394px;
+  left: 103px;
+  width: 343px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.loginbutton-button {
+  top: 466px;
+  left: 103px;
+  width: 343px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.loginbutton-component29 {
+  top: 144px;
+  left: 120px;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.loginbutton-rectangle17 {
+  top: 0px;
+  left: 0px;
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.loginbutton-register {
+  top: 87px;
+  left: 87px;
+  width: 148px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.loginbutton-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.loginbutton-rectangle2 {
+  top: 163px;
+  left: 79px;
+  width: 343px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.loginbutton-text02 {
+  top: 180px;
+  left: 96px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.loginbutton-rectangle21 {
+  top: 235px;
+  left: 78px;
+  width: 343px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.loginbutton-text04 {
+  top: 252px;
+  left: 95px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.loginbutton-text06 {
+  top: 326px;
+  left: 231.28759765625px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.loginbutton-text08 {
+  top: 379px;
+  left: 299px;
+  color: var(--dl-color-default-blue);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.loginbutton-text10 {
+  top: 379px;
+  left: 122px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.loginbutton-button1 {
+  top: 315px;
+  left: 79px;
+  width: 343px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.loginbutton-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 6px;
+}
+.loginbutton-text12 {
+  top: 19px;
+  left: 153.28741455078125px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.loginbutton-component1 {
+  top: 2px;
+  left: 0px;
+  width: 1366px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.loginbutton-rectangle23 {
+  top: 0px;
+  left: 0px;
+  width: 1366px;
+  height: 80px;
+  position: absolute;
+  border-color: transparent;
+}
+.loginbutton-d-a-l-l-e2023022214521 {
+  top: 0px;
+  left: 0px;
+  width: 164px;
+  height: 80px;
+  position: absolute;
+  border-color: transparent;
+}
+.loginbutton-component6 {
+  top: 82px;
+  left: 0px;
+  width: 1366px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.loginbutton-rectangle4 {
+  top: 0px;
+  left: 683px;
+  width: 683px;
+  height: 12px;
+  position: absolute;
+  border-color: transparent;
+}
+.loginbutton-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 683px;
+  height: 12px;
+  position: absolute;
+  border-color: transparent;
+}

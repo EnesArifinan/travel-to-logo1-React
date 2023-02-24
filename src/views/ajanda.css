@@ -1,0 +1,819 @@
+.ajanda-container {
+  min-height: 100vh;
+}
+.ajanda-ajanda {
+  width: 100%;
+  height: 768px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.ajanda-component33 {
+  top: 264px;
+  left: 32px;
+  width: 800px;
+  height: 450.61224365234375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.ajanda-ekran-grnts911 {
+  top: 0px;
+  left: 0px;
+  width: 800px;
+  height: 451px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.ajanda-group9058 {
+  top: 185px;
+  left: 280px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.ajanda-ellipse1939 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-frame {
+  top: 10.45452880859375px;
+  left: 7.04541015625px;
+  width: 25.057247161865234px;
+  height: 25.454545974731445px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.ajanda-ellipse1810 {
+  top: 12.272705078125px;
+  left: 5.9091796875px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-ellipse1819 {
+  top: 14.99993896484375px;
+  left: 9.77294921875px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-vector {
+  top: 0px;
+  left: 1.6795654296875px;
+  width: 22px;
+  height: 9px;
+  position: absolute;
+}
+.ajanda-maskgroup {
+  top: 0px;
+  left: 1.6795654296875px;
+  width: 21.685911178588867px;
+  height: 9.084283828735352px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.ajanda-rectangle {
+  top: 0px;
+  left: -0.0887451171875px;
+  width: 22px;
+  height: 9px;
+  opacity: 0.15;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-ellipse1876 {
+  top: -0.90911865234375px;
+  left: -0.54345703125px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-ellipse1877 {
+  top: 3.4090576171875px;
+  left: 14.002197265625px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-vector846 {
+  top: 1.36358642578125px;
+  left: 1.95654296875px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.ajanda-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 9px;
+  position: absolute;
+}
+.ajanda-vector857 {
+  top: -0.081298828125px;
+  left: -0.166015625px;
+  width: 5px;
+  height: 6px;
+  position: absolute;
+}
+.ajanda-vector2 {
+  top: 7.2391357421875px;
+  left: 0px;
+  width: 25px;
+  height: 10px;
+  position: absolute;
+}
+.ajanda-maskgroup1 {
+  top: 7.2391357421875px;
+  left: 0px;
+  width: 25.057247161865234px;
+  height: 9.964460372924805px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.ajanda-rectangle1 {
+  top: -0.1937255859375px;
+  left: 0px;
+  width: 25px;
+  height: 11px;
+  opacity: 0.20;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-ellipse1878 {
+  top: 8.89715576171875px;
+  left: 2.04541015625px;
+  width: 21px;
+  height: 2px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-ellipse18771 {
+  top: 9.5789794921875px;
+  left: 8.4091796875px;
+  width: 8px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 10px;
+  position: absolute;
+}
+.ajanda-vector856 {
+  top: -0.03802490234375px;
+  left: -0.04931640625px;
+  width: 3px;
+  height: 8px;
+  position: absolute;
+}
+.ajanda-vector4 {
+  top: 18.05859375px;
+  left: 4.5810546875px;
+  width: 16px;
+  height: 2px;
+  position: absolute;
+}
+.ajanda-frame1 {
+  top: 252px;
+  left: 244px;
+  width: 40px;
+  height: 51.75815963745117px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.ajanda-ellipse18101 {
+  top: 28.120574951171875px;
+  left: 8.150891304016113px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-ellipse18191 {
+  top: 32.60356521606445px;
+  left: 17.931961059570312px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-vector5 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.ajanda-maskgroup2 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 39.939369201660156px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.ajanda-rectangle2 {
+  top: -0.4075445830821991px;
+  left: -0.4075445830821991px;
+  width: 41px;
+  height: 40px;
+  opacity: 0.30;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-vector8461 {
+  top: 5.705624103546143px;
+  left: 20.784772872924805px;
+  width: 7px;
+  height: 6px;
+  position: absolute;
+}
+.ajanda-ellipse1901 {
+  top: -1.6301783323287964px;
+  left: 11.411248207092285px;
+  width: 26px;
+  height: 20px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-ellipse1902 {
+  top: 30.15829849243164px;
+  left: 12.226337432861328px;
+  width: 20px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-vector6 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.ajanda-vector7 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.ajanda-vector861 {
+  top: 30.973386764526367px;
+  left: 16.505556106567383px;
+  width: 13px;
+  height: 9px;
+  position: absolute;
+}
+.ajanda-frame2 {
+  top: 181px;
+  left: 380px;
+  width: 40px;
+  height: 54.509803771972656px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.ajanda-ellipse18102 {
+  top: 31.764705657958984px;
+  left: 8.627450942993164px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-vector847 {
+  top: 38.039215087890625px;
+  left: 14.70588207244873px;
+  width: 10px;
+  height: 5px;
+  position: absolute;
+}
+.ajanda-vector8 {
+  top: 5.882352828979492px;
+  left: 0.14705882966518402px;
+  width: 40px;
+  height: 35px;
+  position: absolute;
+}
+.ajanda-maskgroup3 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 47.05882263183594px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.ajanda-ellipse1808 {
+  top: 19.202329635620117px;
+  left: -9.019607543945312px;
+  width: 28px;
+  height: 20px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-vector845 {
+  top: 5.796807765960693px;
+  left: 12.646628379821777px;
+  width: 30px;
+  height: 36px;
+  position: absolute;
+}
+.ajanda-ellipse1809 {
+  top: 35.686275482177734px;
+  left: 15.686274528503418px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-rectangle3 {
+  top: 4.705882549285889px;
+  left: -1.1368683772161603e-13px;
+  width: 40px;
+  height: 37px;
+  opacity: 0.25;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-vector8462 {
+  top: 10.980392456054688px;
+  left: 5.098039150238037px;
+  width: 7px;
+  height: 6px;
+  position: absolute;
+}
+.ajanda-register {
+  top: 224px;
+  left: 942px;
+  width: 148px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.ajanda-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Comfortaa;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.ajanda-rectangle3 {
+  top: 300px;
+  left: 934px;
+  width: 343px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.ajanda-text02 {
+  top: 317px;
+  left: 951px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.ajanda-rectangle4 {
+  top: 372px;
+  left: 933px;
+  width: 343px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.ajanda-text04 {
+  top: 389px;
+  left: 950px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.ajanda-rectangle2 {
+  top: 444px;
+  left: 933px;
+  width: 343px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 6px;
+}
+.ajanda-text06 {
+  top: 463px;
+  left: 1072.28759765625px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.ajanda-text08 {
+  top: 560px;
+  left: 995px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.ajanda-indir61 {
+  top: 604px;
+  left: 1170px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 5px;
+}
+.ajanda-indir51 {
+  top: 600px;
+  left: 950px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 5px;
+}
+.ajanda-indir1 {
+  top: 600px;
+  left: 1060px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 5px;
+}
+.ajanda-component35 {
+  top: 118px;
+  left: 1102px;
+  width: 230px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.ajanda-rectangle23 {
+  top: 0px;
+  left: 0px;
+  width: 130px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 30px 0 0 30px;
+}
+.ajanda-rectangle21 {
+  top: 0px;
+  left: 130px;
+  width: 100px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 0 30px 30px 0;
+}
+.ajanda-text10 {
+  top: 9px;
+  left: 163px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.ajanda-text11 {
+  top: 14px;
+  left: 13px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.ajanda-indir1removebgpreview1 {
+  top: 92px;
+  left: 21px;
+  width: 783px;
+  height: 141px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-component37 {
+  top: 0px;
+  left: 0px;
+  width: 1366px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.ajanda-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 1366px;
+  height: 80px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-d-a-l-l-e2023022214521 {
+  top: 0px;
+  left: 0px;
+  width: 164px;
+  height: 80px;
+  position: absolute;
+  border-color: transparent;
+}
+.ajanda-text13 {
+  top: 27px;
+  left: 954px;
+  color: rgba(0, 0, 0, 1);
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.ajanda-text15 {
+  top: 27px;
+  left: 1052px;
+  color: rgba(0, 0, 0, 1);
+  width: 38px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.ajanda-text17 {
+  top: 27px;
+  left: 1124px;
+  color: rgba(0, 0, 0, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.ajanda-rectangle31 {
+  top: 0px;
+  left: 1286px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+}
+.ajanda-text19 {
+  top: 27px;
+  left: 1305px;
+  color: rgba(214, 27, 34, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
